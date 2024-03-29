@@ -1,7 +1,7 @@
-//  integrnates del grupo:
+
+//* integrnates del grupo:
 //  Julio, juan ignacio, leonard, carla, miguel, braulio 
 
-package ejercicioenclase;
 
 import java.util.Scanner;
 
@@ -51,7 +51,6 @@ public class Alumno {
         // Verificar si el alumno es mayor de edad
         alumno1.esMayorEdad();
         
-        //Cerrar el objeto Scanner
-        scanner.close();
+  
     }
 }
