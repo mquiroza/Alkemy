@@ -1,4 +1,4 @@
-package Basicos;
+package repaso;
 
 import java.util.Scanner;
 
@@ -15,5 +15,7 @@ public class EstructuraCondicionalCompuesta {
 	    	} else {
 	    		System.out.print(num2);
 	    	}
+	    	teclado.close();
 	    }
+
 }
